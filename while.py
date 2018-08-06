@@ -7,6 +7,7 @@ while i>=1:
     print(i)
     i=  i-1 #  i-=1
 print('\n')
+
 # bucle de 1 a 10
 i = 1
 while i<=10:
